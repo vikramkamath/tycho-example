@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <units size='1'>
-  <unit id='tychodemo.bundle' version='1.0.0.201307011957'>
-    <update id='tychodemo.bundle' range='[0.0.0,1.0.0.201307011957)' severity='0'/>
+  <unit id='tychodemo.bundle' version='1.0.0.201307012100'>
+    <update id='tychodemo.bundle' range='[0.0.0,1.0.0.201307012100)' severity='0'/>
     <properties size='4'>
       <property name='org.eclipse.equinox.p2.name' value='Bundle'/>
       <property name='maven-groupId' value='tychodemo'/>
@@ -9,8 +9,8 @@
       <property name='maven-version' value='1.0.0.qualifier'/>
     </properties>
     <provides size='3'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='tychodemo.bundle' version='1.0.0.201307011957'/>
-      <provided namespace='osgi.bundle' name='tychodemo.bundle' version='1.0.0.201307011957'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='tychodemo.bundle' version='1.0.0.201307012100'/>
+      <provided namespace='osgi.bundle' name='tychodemo.bundle' version='1.0.0.201307012100'/>
       <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
     </provides>
     <requires size='2'>
@@ -18,13 +18,13 @@
       <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
     </requires>
     <artifacts size='1'>
-      <artifact classifier='osgi.bundle' id='tychodemo.bundle' version='1.0.0.201307011957'/>
+      <artifact classifier='osgi.bundle' id='tychodemo.bundle' version='1.0.0.201307012100'/>
     </artifacts>
     <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
     <touchpointData size='1'>
       <instructions size='1'>
         <instruction key='manifest'>
-          Bundle-SymbolicName: tychodemo.bundle; singleton:=true&#xA;Bundle-Version: 1.0.0.201307011957&#xA;
+          Bundle-SymbolicName: tychodemo.bundle; singleton:=true&#xA;Bundle-Version: 1.0.0.201307012100&#xA;
         </instruction>
       </instructions>
     </touchpointData>

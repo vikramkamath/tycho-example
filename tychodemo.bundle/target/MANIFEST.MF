@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 1.0.0.201307011957
+Bundle-Version: 1.0.0.201307012100
 Bundle-Name: Bundle
 Bundle-Activator: tychodemo.bundle.Activator
 Bundle-ManifestVersion: 2
