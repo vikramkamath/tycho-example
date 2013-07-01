@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>../tychodemo.bundle</module>
+  	<module>../tychodemo.bundle.tests</module>
   </modules>
   	<!-- common settings for all modules -->
 	<properties>
